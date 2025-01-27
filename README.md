@@ -1,0 +1,1 @@
+This repository contains multiple data science projects focused on eCommerce transactions, customer profiling, and machine learning for Zeotap. The projects include Exploratory Data Analysis (EDA), Lookalike Modeling, and Customer Segmentation using clustering techniques. Each task has been implemented with Python
